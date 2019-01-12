@@ -1,0 +1,42 @@
+###################################GAS SIM######################################
+
+1.APP INFO
+
+GAS SIM is simple animation app that simulates movement of ideal gas particles. 
+There are also available thermodynamic processes simulations.
+One interesting and additional feature is that
+user is able to simulate movement of particles in other
+gravity acceleration than 9.81 m/s^2.
+User also has got possibility to view particle parameters:
+- kinetic energy
+- velocity
+Using arrows user is capable to see parameters of each particle.
+
+2. USER MANUAL
+
+Control of a program is from console level. To move in menu user has to 
+choose proper numbers' option and confirm choice by click on enter.
+In case when entered number is out of range the proper information will
+appear on the screen. 
+In 'Sumulate!' bookmark are available thermodynamic processes and
+gravity simulations.
+Under app logo are shown first state parameters. When one option is selected
+user is asked to enter parameters of the second system state.
+After that the simulation will appear.
+To exit simulation just clikc on red 'x' sign in the right upper corner.
+Thus, the simulation can be repeated or the app work can be finished by choosing 
+number 3 from main manu.
+
+3. About author
+
+Program was created by Grzegorz Budny - CEIE student at 
+Silesian University of Technology as an additional project 
+for prof. Andrzej Polanski usage.
+Tutor and project coordinator: mgr inz. Michal Staniszewski
+If there are any questions or issues with usage or app work please contact me:
+grzegorz.budnypl@gmail.com
+grzegorz.budny@coveris.com
+grzebud478@student.polsl.pl
+
+
+Enjoy and do not destroy :)
